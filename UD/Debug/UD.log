@@ -1,0 +1,5 @@
+﻿  database.cpp
+C:\Users\vipni\source\repos\UD\UD\database.h(8,10): fatal error C1083: Не удается открыть файл включение: mysql.h: No such file or directory,
+  main.cpp
+C:\Users\vipni\source\repos\UD\UD\database.h(8,10): fatal error C1083: Не удается открыть файл включение: mysql.h: No such file or directory,
+  Создание кода...
